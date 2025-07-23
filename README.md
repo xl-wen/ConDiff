@@ -1,6 +1,7 @@
 # ConDiff: Conditional Graph Diffusion Model for Recommendation
 
-The implementation code will be released after the acceptance of the paper.
+This is the PyTorch implementation for ConDiff proposed in the paper ConDiff: Conditional Graph Diffusion Model for Recommendation.
+> Xilin Wen, Xu-Hua Yang, Gang-Feng Ma. 2025. Information Processing & Management
 
 # Environment
 - Anaconda 3
